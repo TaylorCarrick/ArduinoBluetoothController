@@ -1,7 +1,7 @@
 # ArduinoBluetoothController
 
-This is part of the code from a Research project I was a part of in the summer of 2013.
+Team oriented project that measured signal range, quality, and interference caused by different materials encountered in a commercial building environment.
 
-It was used to control a robot with a bluetooth app.
+This is the section of code to control the robots with a bluetooth application.
 
 ![](images/firststeprobo.jpg)

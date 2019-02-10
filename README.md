@@ -4,4 +4,4 @@ This is part of the code from a Research project I was a part of in the summer o
 
 It was used to control a robot with a bluetooth app.
 
-![](https://taylorcarrick.github.io/images/firststeprobo.jpg)
+![](images/firststeprobo.jpg)
